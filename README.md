@@ -347,6 +347,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Apple Notes](https://github.com/RafalWilinski/mcp-apple-notes)** - Talk with your Apple Notes
 - **[Apple Shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts)** - An MCP Server Integration with Apple Shortcuts
 - **[AutoGen documentation](https://github.com/sykuang/mcp-autogen-doc)** - A Model Context Protocol (MCP) server that provides AI assistants with the ability to search and retrieve Microsoft AutoGen documentation.
+- **[Aviation MCP](https://github.com/Perufitlife/aviation-mcp)** - Live aviation data for AI agents: decoded METAR weather by ICAO, airport & aircraft specs, an aviation glossary, and FAA-style practice questions. Hosted (Streamable HTTP + SSE), no signup.
 - **[AWS EC2 Pricing](https://github.com/trilogy-group/aws-pricing-mcp)** - Get up-to-date EC2 pricing information with one call. Fast. Powered by a pre-parsed AWS pricing catalogue.
 - **[Backup](https://github.com/hexitex/MCP-Backup-Server)** - Add smart Backup ability to coding agents like Windsurf, Cursor, Cluade Coder, etc
 - **[Basecamp](https://github.com/georgeantonopoulos/Basecamp-MCP-Server)** - Integration with Basecamp project management platform for managing projects, to-dos, card tables, documents, and team collaboration
