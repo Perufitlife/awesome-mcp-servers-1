@@ -258,6 +258,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Playwright](https://github.com/microsoft/playwright-mcp)** - Playwright MCP server
 - **[Plugged.in](https://github.com/VeriTeknik/pluggedin-mcp-proxy)** - A comprehensive proxy that combines multiple MCP servers into a single MCP. It provides discovery and management of tools, prompts, resources, and templates across servers, plus a playground for debugging when building MCP servers.
 - **[Postman](https://github.com/postmanlabs/postman-mcp-server)** - Postman’s remote MCP server connects AI agents, assistants, and chatbots directly to your APIs on Postman.
+- **[PostWire](https://github.com/Perufitlife/postwire-mcp)** - Publish and schedule posts to TikTok, Instagram, YouTube, LinkedIn, X, Bluesky, Mastodon, Telegram and Discord from a single tool call, via [PostWire](https://postwire.io).
 - **[Powerdrill](https://github.com/powerdrillai/powerdrill-mcp)** - An MCP server that provides tools to interact with Powerdrill datasets, enabling smart AI data analysis and insights.
 - **[Powertool](https://github.com/aws-powertools/powertools-mcp)** - An MCP implementation that provides search functionality for the Powertools for AWS Lambda documentation across multiple runtimes.
 - **[Prisma Postgres](https://github.com/prisma/mcp)** - Gives LLMs the ability to manage Prisma Postgres databases (e.g. spin up new databases and run migrations or queries)
